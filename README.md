@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kritika
 - 👀 I’m interested in Software Testing
-- 🌱 I’m currently learning PSM (Scrum).
+- 🌱 I’m currently learning PSM (Scrum)
 - 💞️ I’m looking to collaborate on Testing
 - 📫 How to reach me : ksaini1216@gmail.com
 
