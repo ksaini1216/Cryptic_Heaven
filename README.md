@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kritika
-- 👀 I’m interested in Software Testing
-- 🌱 I’m currently learning PSM (Scrum)
-- 💞️ I’m looking to collaborate on Testing
+- 👀 I’m interested in CyberSecurity
+- 🌱 I’m currently learning Cryptography
+- 💞️ I’m looking to collaborate on Crypto_Projects
 - 📫 How to reach me : ksaini1216@gmail.com
 
 <!---
